@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirReza4747
+- 👋 Hi, I’m @Amirreza4747
 - I'm  master student in computer science
 - 👀 I’m interested in deep learning and bioanformatic
 - 🌱 I’m currently learning deep learning and bio anformatic
